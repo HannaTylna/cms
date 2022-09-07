@@ -1,0 +1,1810 @@
+# Copyright (C) 2022 Kraft Plugins
+# This file is distributed under the same license as the Wheel of Life plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wheel of Life 1.0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wheeloflife\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-01T07:51:16+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+
+#. Plugin Name of the plugin
+#: includes/Wheel_Of_Life_Admin.php:210
+#: app/build/globalApp.js:3286
+#: app/build/globalApp.js:10425
+#: app/src/admin/common/appSidebar.js:124
+#: app/src/admin/pages/wheelLists.js:160
+msgid "Wheel of Life"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://kraftplugins.com/wheel-of-life/"
+msgstr ""
+
+#. Description of the plugin
+msgid "The Wheel of Life assessment tool helps clients quickly visualize every vital aspect of their lives and helps them understand which area of their life can be improved to bring in the perfect balance they need."
+msgstr ""
+
+#. Author of the plugin
+msgid "Kraft Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://kraftplugins.com"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:118
+#: includes/functions/AjaxFunctions.php:276
+msgid "Saved successfully . "
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:162
+#: includes/functions/AjaxFunctions.php:178
+#: includes/functions/AjaxFunctions.php:200
+#: includes/functions/AjaxFunctions.php:222
+#: includes/functions/AjaxFunctions.php:239
+#: includes/functions/AjaxFunctions.php:263
+msgid "Something went wrong ! Please try again"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:197
+msgid "Wheel trashed successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:197
+msgid "Submission trashed successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:219
+msgid "Wheel restored successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:219
+msgid "Submission restored successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:235
+msgid "Wheel deleted successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:235
+msgid "Submission deleted successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:256
+msgid "Copy of "
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:265
+msgid "Wheel copied successfully . "
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:301
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:305
+msgid "Your Assessment report has been created!"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:309
+msgid "Dear {email},"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:310
+msgid "Thank you for taking the Assessment. You can view your assessment information via the link below."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:311
+msgid "My Wheel Report"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:312
+msgid "Thank you."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:321
+msgid "Email sent failed. Please try again later."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:323
+#: includes/functions/AjaxFunctions.php:330
+msgid "Email sent successfully."
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:358
+#: includes/functions/AjaxFunctions.php:375
+msgid "Something went wrong! Please try again"
+msgstr ""
+
+#: includes/functions/AjaxFunctions.php:383
+msgid "Report Saved Successfully."
+msgstr ""
+
+#: includes/functions/HelperFunctions.php:51
+msgid "Is your life out of balance? Need a coach?"
+msgstr ""
+
+#: includes/functions/HelperFunctions.php:52
+msgid "I am a Certified Coach with experience of over 5 years. I can help you transform your life and get it run smoothly."
+msgstr ""
+
+#: includes/functions/HelperFunctions.php:53
+msgid "Schedule an Appointment"
+msgstr ""
+
+#: includes/functions/HelperFunctions.php:59
+#: app/build/globalApp.js:8113
+#: app/src/admin/pages/CallToAction.js:22
+msgid "Services"
+msgstr ""
+
+#: includes/Wheel_Of_Life_Admin.php:196
+msgid "Wheels of Life"
+msgstr ""
+
+#: includes/Wheel_Of_Life_Admin.php:220
+msgid "Wheel of Life - Global Settings"
+msgstr ""
+
+#: includes/Wheel_Of_Life_Admin.php:228
+msgid "Wheel of Life - Submissions"
+msgstr ""
+
+#: includes/Wheel_Of_Life_Admin.php:267
+#: includes/Wheel_Of_Life_Admin.php:268
+#: app/build/editor.js:139
+#: app/build/editor.js:140
+#: app/src/admin/blocks/editor.js:25
+#: app/src/admin/blocks/editor.js:27
+msgid "Start Assessment"
+msgstr ""
+
+#: includes/Wheel_Of_Life_Admin.php:286
+msgid "Enter Wheel Description..."
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:62
+msgctxt "post type general name"
+msgid "Wheels"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:63
+msgctxt "post type singular name"
+msgid "Wheel"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:64
+msgctxt "admin menu"
+msgid "Wheels"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:65
+msgctxt "add new on admin bar"
+msgid "Wheel"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:66
+msgctxt "wheel"
+msgid "Add New"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:67
+msgid "Add New wheel"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:68
+msgid "New wheel"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:69
+msgid "Edit wheel"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:70
+msgid "View wheel"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:71
+msgid "All wheels"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:72
+msgid "Search wheels"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:73
+msgid "Parent wheels:"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:74
+msgid "No wheels found."
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:75
+msgid "No wheel found in Trash."
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:80
+msgid "Description."
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:192
+msgctxt "post type general name"
+msgid "Submissions"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:193
+msgctxt "post type singular name"
+msgid "Submission"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:194
+msgctxt "admin menu"
+msgid "Submissions"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:195
+msgctxt "add new on admin bar"
+msgid "Submission"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:196
+msgctxt "Submission"
+msgid "Add New"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:197
+msgid "Add New Submission"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:198
+msgid "New Submission"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:199
+msgid "Edit Submission"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:200
+msgid "View Submission"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:201
+#: app/build/globalApp.js:9327
+#: app/build/globalApp.js:9343
+#: app/build/globalApp.js:9367
+#: app/src/admin/pages/submissionLists.js:127
+#: app/src/admin/pages/submissionLists.js:143
+#: app/src/admin/pages/submissionLists.js:165
+msgid "All Submissions"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:202
+msgid "Search Submissions"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:203
+msgid "Parent Submissions:"
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:204
+msgid "No Submissions found."
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:205
+msgid "No Submission found in Trash."
+msgstr ""
+
+#: includes/Wheel_Of_Life_PostTypes.php:210
+msgid "This is where wheel submissions are stored."
+msgstr ""
+
+#: templates/single-wheel-submissions.php:16
+msgid "My Wheel of Life"
+msgstr ""
+
+#: templates/single-wheel-submissions.php:20
+#: app/build/frontendComponents.js:353
+#: app/build/wheelsFrontend.js:470
+#: app/src/public/assessment/WheelForm.js:290
+msgid "Wheel Submission No: #%d"
+msgstr ""
+
+#: templates/single-wheel-submissions.php:27
+#: templates/single-wheel-submissions.php:98
+#: templates/single-wheel-submissions.php:224
+msgid "Assessment taken on: "
+msgstr ""
+
+#: app/build/blocks.js:167
+#: app/src/admin/blocks/addWheels/WheelBlock.js:25
+msgid "Add Wheel"
+msgstr ""
+
+#: app/build/blocks.js:220
+#: app/src/admin/blocks/addWheels/index.js:22
+msgid "Create Wheels"
+msgstr ""
+
+#: app/build/blocks.js:221
+#: app/build/blocks.js:4782
+#: app/src/admin/blocks/addWheels/index.js:23
+#: app/src/admin/blocks/wheelRow/index.js:23
+msgid "Wheel."
+msgstr ""
+
+#: app/build/blocks.js:227
+#: app/src/admin/blocks/addWheels/index.js:29
+msgid "Wheels"
+msgstr ""
+
+#: app/build/blocks.js:335
+#: app/build/blocks.js:909
+#: app/src/admin/blocks/assesmentButton/Edit.js:55
+#: app/src/admin/blocks/assesmentButton/index.js:45
+msgid "Take Assessment"
+msgstr ""
+
+#: app/build/blocks.js:428
+#: app/build/blocks.js:9509
+#: app/src/admin/blocks/assesmentButton/Inspector.js:59
+#: app/src/admin/wheelEdit.js:23
+msgid "Wheel of life Settings"
+msgstr ""
+
+#: app/build/blocks.js:431
+#: app/src/admin/blocks/assesmentButton/Inspector.js:63
+msgid "Choose Form"
+msgstr ""
+
+#: app/build/blocks.js:438
+#: app/src/admin/blocks/assesmentButton/Inspector.js:69
+msgid "Popup Form"
+msgstr ""
+
+#: app/build/blocks.js:453
+#: app/src/admin/blocks/assesmentButton/Inspector.js:83
+msgid "Popup Type"
+msgstr ""
+
+#: app/build/blocks.js:456
+#: app/src/admin/blocks/assesmentButton/Inspector.js:86
+msgid "Full Screen"
+msgstr ""
+
+#: app/build/blocks.js:457
+#: app/src/admin/blocks/assesmentButton/Inspector.js:90
+msgid "Modal"
+msgstr ""
+
+#: app/build/blocks.js:465
+#: app/src/admin/blocks/assesmentButton/Inspector.js:103
+msgid "Button Settings"
+msgstr ""
+
+#: app/build/blocks.js:477
+#: app/build/blocks.js:492
+#: app/src/admin/blocks/assesmentButton/Inspector.js:114
+#: app/src/admin/blocks/assesmentButton/Inspector.js:133
+msgid "Button Width"
+msgstr ""
+
+#: app/build/blocks.js:480
+#: app/build/blocks.js:3543
+#: app/build/blocks.js:8096
+#: app/build/globalApp.js:2284
+#: app/build/globalApp.js:6596
+#: app/build/uiComponents.js:2284
+#: app/build/uiComponents.js:6396
+#: app/src/admin/blocks/assesmentButton/Inspector.js:117
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:115
+#: app/src/admin/components/options/background/ImagePicker.js:115
+msgid "Fixed"
+msgstr ""
+
+#: app/build/blocks.js:481
+#: app/src/admin/blocks/assesmentButton/Inspector.js:118
+msgid "Flexible"
+msgstr ""
+
+#: app/build/blocks.js:482
+#: app/src/admin/blocks/assesmentButton/Inspector.js:119
+msgid "Full"
+msgstr ""
+
+#: app/build/blocks.js:507
+#: app/src/admin/blocks/assesmentButton/Inspector.js:148
+msgid "Button Border"
+msgstr ""
+
+#: app/build/blocks.js:525
+#: app/src/admin/blocks/assesmentButton/Inspector.js:167
+msgid "Button Alignment"
+msgstr ""
+
+#: app/build/blocks.js:545
+#: app/src/admin/blocks/assesmentButton/Inspector.js:186
+msgid "Rounded Button"
+msgstr ""
+
+#: app/build/blocks.js:560
+#: app/src/admin/blocks/assesmentButton/Inspector.js:203
+msgid "Botton Radius"
+msgstr ""
+
+#: app/build/blocks.js:592
+#: app/src/admin/blocks/assesmentButton/Inspector.js:250
+msgid "Colors"
+msgstr ""
+
+#: app/build/blocks.js:598
+#: app/build/blocks.js:614
+#: app/src/admin/blocks/assesmentButton/Inspector.js:255
+#: app/src/admin/blocks/assesmentButton/Inspector.js:272
+msgid "Text Color"
+msgstr ""
+
+#: app/build/blocks.js:617
+#: app/src/admin/blocks/assesmentButton/Inspector.js:276
+msgid "Text Hover Color"
+msgstr ""
+
+#: app/build/blocks.js:630
+#: app/src/admin/blocks/assesmentButton/Inspector.js:291
+msgid "Button Background Type"
+msgstr ""
+
+#: app/build/blocks.js:633
+#: app/src/admin/blocks/assesmentButton/Inspector.js:297
+msgid "Solid Color"
+msgstr ""
+
+#: app/build/blocks.js:634
+#: app/build/blocks.js:2356
+#: app/build/blocks.js:3291
+#: app/build/blocks.js:6500
+#: app/build/blocks.js:7846
+#: app/build/globalApp.js:1097
+#: app/build/globalApp.js:2032
+#: app/build/globalApp.js:5000
+#: app/build/globalApp.js:6346
+#: app/build/uiComponents.js:1097
+#: app/build/uiComponents.js:2032
+#: app/build/uiComponents.js:4800
+#: app/build/uiComponents.js:6146
+#: app/src/admin/blocks/assesmentButton/Inspector.js:298
+#: app/src/admin/blocks/ui-components/options/ab-background.js:135
+#: app/src/admin/blocks/ui-components/options/background/BackgroundModal.js:63
+#: app/src/admin/components/options/ab-background.js:141
+#: app/src/admin/components/options/background/BackgroundModal.js:63
+msgid "Gradient"
+msgstr ""
+
+#: app/build/blocks.js:645
+#: app/build/blocks.js:661
+#: app/build/blocks.js:3330
+#: app/build/blocks.js:7885
+#: app/build/globalApp.js:2071
+#: app/build/globalApp.js:6385
+#: app/build/globalApp.js:8774
+#: app/build/globalApp.js:8789
+#: app/build/globalApp.js:8836
+#: app/build/globalApp.js:8851
+#: app/build/uiComponents.js:2071
+#: app/build/uiComponents.js:6185
+#: app/src/admin/blocks/assesmentButton/Inspector.js:312
+#: app/src/admin/blocks/assesmentButton/Inspector.js:334
+#: app/src/admin/blocks/ui-components/options/background/BackgroundModal.js:145
+#: app/src/admin/components/options/background/BackgroundModal.js:145
+#: app/src/admin/pages/Customizer.js:261
+#: app/src/admin/pages/Customizer.js:294
+#: app/src/admin/pages/Customizer.js:375
+#: app/src/admin/pages/Customizer.js:408
+msgid "Background Color"
+msgstr ""
+
+#: app/build/blocks.js:664
+#: app/build/globalApp.js:8792
+#: app/build/globalApp.js:8854
+#: app/src/admin/blocks/assesmentButton/Inspector.js:338
+#: app/src/admin/pages/Customizer.js:298
+#: app/src/admin/pages/Customizer.js:412
+msgid "Background Hover Color"
+msgstr ""
+
+#: app/build/blocks.js:671
+#: app/src/admin/blocks/assesmentButton/Inspector.js:350
+msgid "Background Gradient"
+msgstr ""
+
+#: app/build/blocks.js:677
+#: app/src/admin/blocks/assesmentButton/Inspector.js:365
+msgid "Spacing"
+msgstr ""
+
+#: app/build/blocks.js:689
+#: app/build/globalApp.js:8876
+#: app/src/admin/blocks/assesmentButton/Inspector.js:376
+#: app/src/admin/pages/Customizer.js:443
+msgid "Margin"
+msgstr ""
+
+#: app/build/blocks.js:730
+#: app/build/globalApp.js:8915
+#: app/src/admin/blocks/assesmentButton/Inspector.js:428
+#: app/src/admin/pages/Customizer.js:494
+msgid "Padding"
+msgstr ""
+
+#: app/build/blocks.js:895
+#: app/src/admin/blocks/assesmentButton/index.js:31
+msgid "Wheel of Life - Button"
+msgstr ""
+
+#: app/build/blocks.js:896
+#: app/src/admin/blocks/assesmentButton/index.js:32
+msgid "Add a customizable button."
+msgstr ""
+
+#: app/build/blocks.js:902
+#: app/build/blocks.js:4788
+#: app/src/admin/blocks/assesmentButton/index.js:38
+#: app/src/admin/blocks/wheelRow/index.js:29
+msgid "Buttons"
+msgstr ""
+
+#: app/build/blocks.js:1636
+#: app/build/blocks.js:5284
+#: app/build/globalApp.js:377
+#: app/build/globalApp.js:3784
+#: app/build/uiComponents.js:377
+#: app/build/uiComponents.js:3584
+#: app/src/admin/blocks/ui-components/GenericOptionType.js:421
+#: app/src/admin/components/GenericOptionType.js:421
+msgid "Option can't be edited for current device"
+msgstr ""
+
+#: app/build/blocks.js:2084
+#: app/build/blocks.js:6277
+#: app/build/globalApp.js:825
+#: app/build/globalApp.js:4777
+#: app/build/uiComponents.js:825
+#: app/build/uiComponents.js:4577
+#: app/src/admin/blocks/ui-components/helpers/InputWithOnlyNumbers.js:11
+#: app/src/admin/components/helpers/InputWithOnlyNumbers.js:11
+msgid "Default"
+msgstr ""
+
+#: app/build/blocks.js:2354
+#: app/build/blocks.js:6498
+#: app/build/globalApp.js:1095
+#: app/build/globalApp.js:4998
+#: app/build/uiComponents.js:1095
+#: app/build/uiComponents.js:4798
+#: app/src/admin/blocks/ui-components/options/ab-background.js:133
+#: app/src/admin/components/options/ab-background.js:139
+msgid "Inherited"
+msgstr ""
+
+#: app/build/blocks.js:2355
+#: app/build/blocks.js:3315
+#: app/build/blocks.js:6499
+#: app/build/globalApp.js:1096
+#: app/build/globalApp.js:2056
+#: app/build/globalApp.js:4999
+#: app/build/uiComponents.js:1096
+#: app/build/uiComponents.js:2056
+#: app/build/uiComponents.js:4799
+#: app/src/admin/blocks/ui-components/options/ab-background.js:134
+#: app/src/admin/blocks/ui-components/options/background/BackgroundModal.js:106
+#: app/src/admin/components/options/ab-background.js:140
+msgid "Pattern"
+msgstr ""
+
+#: app/build/blocks.js:2357
+#: app/build/blocks.js:3290
+#: app/build/blocks.js:6501
+#: app/build/blocks.js:7845
+#: app/build/globalApp.js:1098
+#: app/build/globalApp.js:2031
+#: app/build/globalApp.js:5001
+#: app/build/globalApp.js:6345
+#: app/build/uiComponents.js:1098
+#: app/build/uiComponents.js:2031
+#: app/build/uiComponents.js:4801
+#: app/build/uiComponents.js:6145
+#: app/src/admin/blocks/ui-components/options/ab-background.js:136
+#: app/src/admin/blocks/ui-components/options/background/BackgroundModal.js:62
+#: app/src/admin/components/options/ab-background.js:142
+#: app/src/admin/components/options/background/BackgroundModal.js:62
+msgid "Color"
+msgstr ""
+
+#: app/build/blocks.js:2358
+#: app/build/blocks.js:3293
+#: app/build/blocks.js:3316
+#: app/build/blocks.js:6502
+#: app/build/blocks.js:7848
+#: app/build/blocks.js:7871
+#: app/build/globalApp.js:1099
+#: app/build/globalApp.js:2034
+#: app/build/globalApp.js:2057
+#: app/build/globalApp.js:5002
+#: app/build/globalApp.js:6348
+#: app/build/globalApp.js:6371
+#: app/build/uiComponents.js:1099
+#: app/build/uiComponents.js:2034
+#: app/build/uiComponents.js:2057
+#: app/build/uiComponents.js:4802
+#: app/build/uiComponents.js:6148
+#: app/build/uiComponents.js:6171
+#: app/src/admin/blocks/ui-components/options/ab-background.js:137
+#: app/src/admin/blocks/ui-components/options/background/BackgroundModal.js:65
+#: app/src/admin/blocks/ui-components/options/background/BackgroundModal.js:107
+#: app/src/admin/components/options/ab-background.js:143
+#: app/src/admin/components/options/background/BackgroundModal.js:65
+#: app/src/admin/components/options/background/BackgroundModal.js:107
+msgid "Image"
+msgstr ""
+
+#: app/build/blocks.js:2448
+#: app/build/blocks.js:2608
+#: app/build/blocks.js:3544
+#: app/build/blocks.js:6592
+#: app/build/blocks.js:6752
+#: app/build/blocks.js:8097
+#: app/build/globalApp.js:1189
+#: app/build/globalApp.js:1349
+#: app/build/globalApp.js:2285
+#: app/build/globalApp.js:5092
+#: app/build/globalApp.js:5252
+#: app/build/globalApp.js:6597
+#: app/build/uiComponents.js:1189
+#: app/build/uiComponents.js:1349
+#: app/build/uiComponents.js:2285
+#: app/build/uiComponents.js:4892
+#: app/build/uiComponents.js:5052
+#: app/build/uiComponents.js:6397
+#: app/src/admin/blocks/ui-components/options/ab-border.js:40
+#: app/src/admin/blocks/ui-components/options/ab-box-shadow.js:114
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:116
+#: app/src/admin/components/options/ab-border.js:40
+#: app/src/admin/components/options/ab-box-shadow.js:114
+#: app/src/admin/components/options/background/ImagePicker.js:116
+msgid "Inherit"
+msgstr ""
+
+#: app/build/blocks.js:2608
+#: app/build/blocks.js:6752
+#: app/build/globalApp.js:1349
+#: app/build/globalApp.js:5252
+#: app/build/uiComponents.js:1349
+#: app/build/uiComponents.js:5052
+#: app/src/admin/blocks/ui-components/options/ab-box-shadow.js:116
+#: app/src/admin/components/options/ab-box-shadow.js:116
+msgid "Adjust"
+msgstr ""
+
+#: app/build/blocks.js:2608
+#: app/build/blocks.js:6752
+#: app/build/blocks.js:9659
+#: app/build/globalApp.js:1349
+#: app/build/globalApp.js:5252
+#: app/build/uiComponents.js:1349
+#: app/build/uiComponents.js:5052
+#: app/src/admin/blocks/ui-components/options/ab-box-shadow.js:117
+#: app/src/admin/components/options/ab-box-shadow.js:117
+#: app/src/admin/wheelSettingTab/CTAType.js:43
+msgid "None"
+msgstr ""
+
+#: app/build/blocks.js:3100
+#: app/build/blocks.js:7656
+#: app/build/globalApp.js:1841
+#: app/build/globalApp.js:6156
+#: app/build/uiComponents.js:1841
+#: app/build/uiComponents.js:5956
+#: app/src/admin/blocks/ui-components/options/ab-spacing.js:93
+#: app/src/admin/components/options/ab-spacing.js:93
+msgid "Top"
+msgstr ""
+
+#: app/build/blocks.js:3101
+#: app/build/blocks.js:7657
+#: app/build/globalApp.js:1842
+#: app/build/globalApp.js:6157
+#: app/build/uiComponents.js:1842
+#: app/build/uiComponents.js:5957
+#: app/src/admin/blocks/ui-components/options/ab-spacing.js:94
+#: app/src/admin/components/options/ab-spacing.js:94
+msgid "Bottom"
+msgstr ""
+
+#: app/build/blocks.js:3102
+#: app/build/blocks.js:7658
+#: app/build/globalApp.js:1843
+#: app/build/globalApp.js:6158
+#: app/build/uiComponents.js:1843
+#: app/build/uiComponents.js:5958
+#: app/src/admin/blocks/ui-components/options/ab-spacing.js:95
+#: app/src/admin/components/options/ab-spacing.js:95
+msgid "Left"
+msgstr ""
+
+#: app/build/blocks.js:3103
+#: app/build/blocks.js:7659
+#: app/build/globalApp.js:1844
+#: app/build/globalApp.js:6159
+#: app/build/uiComponents.js:1844
+#: app/build/uiComponents.js:5959
+#: app/src/admin/blocks/ui-components/options/ab-spacing.js:96
+#: app/src/admin/components/options/ab-spacing.js:96
+msgid "Right"
+msgstr ""
+
+#: app/build/blocks.js:3336
+#: app/build/blocks.js:3561
+#: app/build/blocks.js:3703
+#: app/build/blocks.js:7891
+#: app/build/blocks.js:8114
+#: app/build/globalApp.js:2077
+#: app/build/globalApp.js:2302
+#: app/build/globalApp.js:2444
+#: app/build/globalApp.js:6391
+#: app/build/globalApp.js:6614
+#: app/build/uiComponents.js:2077
+#: app/build/uiComponents.js:2302
+#: app/build/uiComponents.js:2444
+#: app/build/uiComponents.js:6191
+#: app/build/uiComponents.js:6414
+#: app/src/admin/blocks/ui-components/options/background/BackgroundModal.js:155
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:140
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:171
+#: app/src/admin/components/options/background/BackgroundModal.js:155
+#: app/src/admin/components/options/background/ImagePicker.js:140
+#: app/src/admin/components/options/background/PatternPicker.js:171
+msgid "Initial"
+msgstr ""
+
+#: app/build/blocks.js:3474
+#: app/build/blocks.js:8027
+#: app/build/globalApp.js:2215
+#: app/build/globalApp.js:6527
+#: app/build/uiComponents.js:2215
+#: app/build/uiComponents.js:6327
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:27
+#: app/src/admin/components/options/background/ImagePicker.js:27
+msgid "Select Image"
+msgstr ""
+
+#: app/build/blocks.js:3475
+#: app/build/blocks.js:8028
+#: app/build/globalApp.js:2216
+#: app/build/globalApp.js:6528
+#: app/build/uiComponents.js:2216
+#: app/build/uiComponents.js:6328
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:28
+#: app/src/admin/components/options/background/ImagePicker.js:28
+msgid "Change Image"
+msgstr ""
+
+#: app/build/blocks.js:3492
+#: app/build/blocks.js:8045
+#: app/build/globalApp.js:2233
+#: app/build/globalApp.js:6545
+#: app/build/uiComponents.js:2233
+#: app/build/uiComponents.js:6345
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:51
+#: app/src/admin/components/options/background/ImagePicker.js:51
+msgid "Background Repeat"
+msgstr ""
+
+#: app/build/blocks.js:3516
+#: app/build/blocks.js:8069
+#: app/build/globalApp.js:2257
+#: app/build/globalApp.js:6569
+#: app/build/uiComponents.js:2257
+#: app/build/uiComponents.js:6369
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:83
+#: app/src/admin/components/options/background/ImagePicker.js:83
+msgid "Background Size"
+msgstr ""
+
+#: app/build/blocks.js:3522
+#: app/build/blocks.js:8075
+#: app/build/globalApp.js:2263
+#: app/build/globalApp.js:6575
+#: app/build/uiComponents.js:2263
+#: app/build/uiComponents.js:6375
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:89
+#: app/src/admin/components/options/background/ImagePicker.js:89
+msgid "Auto"
+msgstr ""
+
+#: app/build/blocks.js:3523
+#: app/build/blocks.js:8076
+#: app/build/globalApp.js:2264
+#: app/build/globalApp.js:6576
+#: app/build/uiComponents.js:2264
+#: app/build/uiComponents.js:6376
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:90
+#: app/src/admin/components/options/background/ImagePicker.js:90
+msgid "Cover"
+msgstr ""
+
+#: app/build/blocks.js:3524
+#: app/build/blocks.js:8077
+#: app/build/globalApp.js:2265
+#: app/build/globalApp.js:6577
+#: app/build/uiComponents.js:2265
+#: app/build/uiComponents.js:6377
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:91
+#: app/src/admin/components/options/background/ImagePicker.js:91
+msgid "Contain"
+msgstr ""
+
+#: app/build/blocks.js:3536
+#: app/build/blocks.js:8089
+#: app/build/globalApp.js:2277
+#: app/build/globalApp.js:6589
+#: app/build/uiComponents.js:2277
+#: app/build/uiComponents.js:6389
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:108
+#: app/src/admin/components/options/background/ImagePicker.js:108
+msgid "Background Attachment"
+msgstr ""
+
+#: app/build/blocks.js:3542
+#: app/build/blocks.js:8095
+#: app/build/globalApp.js:2283
+#: app/build/globalApp.js:6595
+#: app/build/uiComponents.js:2283
+#: app/build/uiComponents.js:6395
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:114
+#: app/src/admin/components/options/background/ImagePicker.js:114
+msgid "Scroll"
+msgstr ""
+
+#: app/build/blocks.js:3556
+#: app/build/blocks.js:8109
+#: app/build/globalApp.js:2297
+#: app/build/globalApp.js:6609
+#: app/build/uiComponents.js:2297
+#: app/build/uiComponents.js:6409
+#: app/src/admin/blocks/ui-components/options/background/ImagePicker.js:134
+#: app/src/admin/components/options/background/ImagePicker.js:134
+msgid "Image Overlay Color"
+msgstr ""
+
+#: app/build/blocks.js:3602
+#: app/build/globalApp.js:2343
+#: app/build/uiComponents.js:2343
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:18
+#: app/src/admin/components/options/background/PatternPicker.js:18
+msgid "Hideout"
+msgstr ""
+
+#: app/build/blocks.js:3606
+#: app/build/globalApp.js:2347
+#: app/build/uiComponents.js:2347
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:24
+#: app/src/admin/components/options/background/PatternPicker.js:24
+msgid "Triangles"
+msgstr ""
+
+#: app/build/blocks.js:3610
+#: app/build/globalApp.js:2351
+#: app/build/uiComponents.js:2351
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:30
+#: app/src/admin/components/options/background/PatternPicker.js:30
+msgid "Bubbles"
+msgstr ""
+
+#: app/build/blocks.js:3614
+#: app/build/globalApp.js:2355
+#: app/build/uiComponents.js:2355
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:36
+#: app/src/admin/components/options/background/PatternPicker.js:36
+msgid "Wiggle"
+msgstr ""
+
+#: app/build/blocks.js:3618
+#: app/build/globalApp.js:2359
+#: app/build/uiComponents.js:2359
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:42
+#: app/src/admin/components/options/background/PatternPicker.js:42
+msgid "Polka Dots"
+msgstr ""
+
+#: app/build/blocks.js:3622
+#: app/build/globalApp.js:2363
+#: app/build/uiComponents.js:2363
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:48
+#: app/src/admin/components/options/background/PatternPicker.js:48
+msgid "Overlaping Circles"
+msgstr ""
+
+#: app/build/blocks.js:3626
+#: app/build/globalApp.js:2367
+#: app/build/uiComponents.js:2367
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:54
+#: app/src/admin/components/options/background/PatternPicker.js:54
+msgid "Texture"
+msgstr ""
+
+#: app/build/blocks.js:3630
+#: app/build/globalApp.js:2371
+#: app/build/uiComponents.js:2371
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:60
+#: app/src/admin/components/options/background/PatternPicker.js:60
+msgid "Diagonal Lines"
+msgstr ""
+
+#: app/build/blocks.js:3634
+#: app/build/globalApp.js:2375
+#: app/build/uiComponents.js:2375
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:66
+#: app/src/admin/components/options/background/PatternPicker.js:66
+msgid "Rain"
+msgstr ""
+
+#: app/build/blocks.js:3638
+#: app/build/globalApp.js:2379
+#: app/build/uiComponents.js:2379
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:72
+#: app/src/admin/components/options/background/PatternPicker.js:72
+msgid "Stripes"
+msgstr ""
+
+#: app/build/blocks.js:3642
+#: app/build/globalApp.js:2383
+#: app/build/uiComponents.js:2383
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:78
+#: app/src/admin/components/options/background/PatternPicker.js:78
+msgid "Diagonal Stripes"
+msgstr ""
+
+#: app/build/blocks.js:3646
+#: app/build/globalApp.js:2387
+#: app/build/uiComponents.js:2387
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:84
+#: app/src/admin/components/options/background/PatternPicker.js:84
+msgid "Intersecting Circles"
+msgstr ""
+
+#: app/build/blocks.js:3650
+#: app/build/globalApp.js:2391
+#: app/build/uiComponents.js:2391
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:90
+#: app/src/admin/components/options/background/PatternPicker.js:90
+msgid "Bank Note"
+msgstr ""
+
+#: app/build/blocks.js:3654
+#: app/build/globalApp.js:2395
+#: app/build/uiComponents.js:2395
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:96
+#: app/src/admin/components/options/background/PatternPicker.js:96
+msgid "Zig Zag"
+msgstr ""
+
+#: app/build/blocks.js:3658
+#: app/build/globalApp.js:2399
+#: app/build/uiComponents.js:2399
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:102
+#: app/src/admin/components/options/background/PatternPicker.js:102
+msgid "Endless Clouds"
+msgstr ""
+
+#: app/build/blocks.js:3662
+#: app/build/globalApp.js:2403
+#: app/build/uiComponents.js:2403
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:108
+#: app/src/admin/components/options/background/PatternPicker.js:108
+msgid "Honey Comb"
+msgstr ""
+
+#: app/build/blocks.js:3666
+#: app/build/globalApp.js:2407
+#: app/build/uiComponents.js:2407
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:114
+#: app/src/admin/components/options/background/PatternPicker.js:114
+msgid "Cross Stripes"
+msgstr ""
+
+#: app/build/blocks.js:3670
+#: app/build/globalApp.js:2411
+#: app/build/uiComponents.js:2411
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:120
+#: app/src/admin/components/options/background/PatternPicker.js:120
+msgid "Autumn"
+msgstr ""
+
+#: app/build/blocks.js:3698
+#: app/build/globalApp.js:2439
+#: app/build/uiComponents.js:2439
+#: app/src/admin/blocks/ui-components/options/background/PatternPicker.js:165
+#: app/src/admin/components/options/background/PatternPicker.js:165
+msgid "Pattern Color"
+msgstr ""
+
+#: app/build/blocks.js:3825
+#: app/build/blocks.js:8235
+#: app/build/globalApp.js:2566
+#: app/build/globalApp.js:6735
+#: app/build/uiComponents.js:2566
+#: app/build/uiComponents.js:6535
+#: app/src/admin/blocks/ui-components/options/box-shadow/box-shadow-modal.js:101
+#: app/src/admin/components/options/box-shadow/box-shadow-modal.js:101
+msgid "Enable/Disable"
+msgstr ""
+
+#: app/build/blocks.js:3840
+#: app/build/blocks.js:8250
+#: app/build/globalApp.js:2581
+#: app/build/globalApp.js:6750
+#: app/build/uiComponents.js:2581
+#: app/build/uiComponents.js:6550
+#: app/src/admin/blocks/ui-components/options/box-shadow/box-shadow-modal.js:121
+#: app/src/admin/components/options/box-shadow/box-shadow-modal.js:121
+msgid "Horizontal Offset"
+msgstr ""
+
+#: app/build/blocks.js:3861
+#: app/build/blocks.js:8271
+#: app/build/globalApp.js:2602
+#: app/build/globalApp.js:6771
+#: app/build/uiComponents.js:2602
+#: app/build/uiComponents.js:6571
+#: app/src/admin/blocks/ui-components/options/box-shadow/box-shadow-modal.js:150
+#: app/src/admin/components/options/box-shadow/box-shadow-modal.js:150
+msgid "Vertical Offset"
+msgstr ""
+
+#: app/build/blocks.js:3881
+#: app/build/blocks.js:8291
+#: app/build/globalApp.js:2622
+#: app/build/globalApp.js:6791
+#: app/build/uiComponents.js:2622
+#: app/build/uiComponents.js:6591
+#: app/src/admin/blocks/ui-components/options/box-shadow/box-shadow-modal.js:178
+#: app/src/admin/components/options/box-shadow/box-shadow-modal.js:178
+msgid "Blur"
+msgstr ""
+
+#: app/build/blocks.js:3903
+#: app/build/blocks.js:8313
+#: app/build/globalApp.js:2644
+#: app/build/globalApp.js:6813
+#: app/build/uiComponents.js:2644
+#: app/build/uiComponents.js:6613
+#: app/src/admin/blocks/ui-components/options/box-shadow/box-shadow-modal.js:203
+#: app/src/admin/components/options/box-shadow/box-shadow-modal.js:203
+msgid "Spread"
+msgstr ""
+
+#: app/build/blocks.js:4504
+#: app/src/admin/blocks/addWheels/block-components/blocks.js:124
+#: app/src/admin/blocks/wheelRow/Edit.js:70
+msgid "Click and add title"
+msgstr ""
+
+#: app/build/blocks.js:4521
+#: app/src/admin/blocks/wheelRow/Edit.js:93
+msgid "Wheel description"
+msgstr ""
+
+#: app/build/blocks.js:4593
+#: app/src/admin/blocks/wheelRow/Inspector.js:22
+msgid "Wheel Settings"
+msgstr ""
+
+#: app/build/blocks.js:4599
+#: app/build/blocks.js:4611
+#: app/src/admin/blocks/wheelRow/Inspector.js:27
+#: app/src/admin/blocks/wheelRow/Inspector.js:46
+msgid "Legend Color"
+msgstr ""
+
+#: app/build/blocks.js:4619
+#: app/src/admin/blocks/wheelRow/Inspector.js:56
+msgid "Show Icon"
+msgstr ""
+
+#: app/build/blocks.js:4628
+#: app/src/admin/blocks/wheelRow/Inspector.js:67
+msgid "Choose Icon"
+msgstr ""
+
+#: app/build/blocks.js:4638
+#: app/src/admin/blocks/wheelRow/Inspector.js:80
+msgid "Required"
+msgstr ""
+
+#: app/build/blocks.js:4649
+#: app/src/admin/blocks/wheelRow/Inspector.js:92
+msgid "Skip Text"
+msgstr ""
+
+#: app/build/blocks.js:4651
+#: app/build/frontendComponents.js:288
+#: app/build/wheelsFrontend.js:405
+#: app/src/admin/blocks/wheelRow/Inspector.js:96
+#: app/src/public/assessment/WheelForm.js:184
+msgid "Skip this area - it's not important to me"
+msgstr ""
+
+#: app/build/blocks.js:4661
+#: app/src/admin/blocks/wheelRow/Inspector.js:110
+msgid "Link"
+msgstr ""
+
+#: app/build/blocks.js:4781
+#: app/src/admin/blocks/wheelRow/index.js:22
+msgid "Wheel Row"
+msgstr ""
+
+#: app/build/blocks.js:4911
+#: app/build/frontendComponents.js:722
+#: app/build/globalApp.js:3411
+#: app/build/uiComponents.js:3211
+#: app/build/wheelsFrontend.js:900
+#: app/src/admin/components/Bulk.js:43
+#: app/src/public/assessment/WheelWidget.js:240
+msgid "Cancel"
+msgstr ""
+
+#: app/build/blocks.js:5361
+#: app/build/editor.js:312
+#: app/build/globalApp.js:3861
+#: app/build/uiComponents.js:3661
+#: app/src/admin/components/Shortcode.js:18
+msgid "Copy Shortcode"
+msgstr ""
+
+#: app/build/blocks.js:5373
+#: app/build/editor.js:324
+#: app/build/globalApp.js:3873
+#: app/build/uiComponents.js:3673
+#: app/src/admin/components/Shortcode.js:28
+msgid "Copied"
+msgstr ""
+
+#: app/build/blocks.js:5590
+#: app/build/globalApp.js:4090
+#: app/build/uiComponents.js:3890
+#: app/src/admin/components/UiComponents.js:158
+msgid "Enabled"
+msgstr ""
+
+#: app/build/blocks.js:5590
+#: app/build/globalApp.js:4090
+#: app/build/uiComponents.js:3890
+#: app/src/admin/components/UiComponents.js:159
+msgid "Disabled"
+msgstr ""
+
+#: app/build/blocks.js:5800
+#: app/build/globalApp.js:4300
+#: app/build/uiComponents.js:4100
+#: app/src/admin/components/UiComponents.js:398
+msgid "View"
+msgstr ""
+
+#: app/build/blocks.js:5803
+#: app/build/globalApp.js:4303
+#: app/build/uiComponents.js:4103
+#: app/src/admin/blocks/addWheels/block-components/blocks.js:97
+#: app/src/admin/components/UiComponents.js:402
+msgid "Edit"
+msgstr ""
+
+#: app/build/blocks.js:5806
+#: app/build/globalApp.js:4306
+#: app/build/uiComponents.js:4106
+#: app/src/admin/components/UiComponents.js:406
+msgid "Duplicate"
+msgstr ""
+
+#: app/build/blocks.js:5810
+#: app/build/globalApp.js:4310
+#: app/build/globalApp.js:9355
+#: app/build/globalApp.js:10413
+#: app/build/uiComponents.js:4110
+#: app/src/admin/components/UiComponents.js:414
+#: app/src/admin/pages/submissionLists.js:155
+#: app/src/admin/pages/wheelLists.js:150
+msgid "Trash"
+msgstr ""
+
+#: app/build/blocks.js:5813
+#: app/build/globalApp.js:4313
+#: app/build/uiComponents.js:4113
+#: app/src/admin/components/UiComponents.js:421
+msgid "Restore"
+msgstr ""
+
+#: app/build/blocks.js:5817
+#: app/build/globalApp.js:4317
+#: app/build/uiComponents.js:4117
+#: app/src/admin/blocks/addWheels/block-components/blocks.js:108
+#: app/src/admin/components/UiComponents.js:428
+msgid "Delete"
+msgstr ""
+
+#: app/build/blocks.js:9592
+#: app/src/admin/wheelSetting.js:32
+msgid "Call to Action"
+msgstr ""
+
+#: app/build/blocks.js:9605
+#: app/src/admin/wheelSetting.js:75
+msgid "Done"
+msgstr ""
+
+#: app/build/blocks.js:9648
+#: app/src/admin/wheelSettingTab/CTAType.js:30
+msgid "CTA Type"
+msgstr ""
+
+#: app/build/blocks.js:9668
+#: app/src/admin/wheelSettingTab/CTAType.js:58
+msgid "Global CTA"
+msgstr ""
+
+#: app/build/blocks.js:9674
+#: app/src/admin/wheelSettingTab/CTAType.js:65
+msgid "Global setting is for the CTA setting from global settings."
+msgstr ""
+
+#: app/build/blocks.js:9748
+#: app/src/admin/wheelSettingTab/General.js:53
+msgid "Wheel Meter"
+msgstr ""
+
+#: app/build/blocks.js:9761
+#: app/src/admin/wheelSettingTab/General.js:70
+msgid "Likert"
+msgstr ""
+
+#: app/build/blocks.js:9774
+#: app/src/admin/wheelSettingTab/General.js:88
+msgid "Slider"
+msgstr ""
+
+#: app/build/blocks.js:9780
+#: app/src/admin/wheelSettingTab/General.js:95
+msgid "Min Value"
+msgstr ""
+
+#: app/build/blocks.js:9791
+#: app/src/admin/wheelSettingTab/General.js:108
+msgid "Max Value"
+msgstr ""
+
+#: app/build/editor.js:155
+#: app/build/editor.js:192
+#: app/src/admin/blocks/editor.js:48
+#: app/src/admin/blocks/editor.js:100
+msgid "Wheel Usage"
+msgstr ""
+
+#: app/build/editor.js:201
+#: app/src/admin/blocks/editor.js:106
+msgid "Display Mode"
+msgstr ""
+
+#: app/build/editor.js:217
+#: app/build/globalApp.js:8324
+#: app/build/globalApp.js:8382
+#: app/src/admin/blocks/editor.js:121
+#: app/src/admin/pages/CallToAction.js:259
+#: app/src/admin/pages/CallToAction.js:353
+msgid "Button Label"
+msgstr ""
+
+#: app/build/editor.js:221
+#: app/src/admin/blocks/editor.js:127
+msgid "Popup Button Label"
+msgstr ""
+
+#: app/build/editor.js:224
+#: app/src/admin/blocks/editor.js:135
+msgid "Wheel Shortcode"
+msgstr ""
+
+#: app/build/frontendComponents.js:367
+#: app/build/wheelsFrontend.js:484
+#: app/src/public/assessment/WheelForm.js:325
+msgid "View My Wheel"
+msgstr ""
+
+#: app/build/frontendComponents.js:489
+#: app/build/wheelsFrontend.js:606
+#: app/src/public/assessment/WheelForm.js:905
+msgid "Next"
+msgstr ""
+
+#: app/build/frontendComponents.js:634
+#: app/build/wheelsFrontend.js:812
+#: app/src/public/assessment/WheelWidget.js:68
+msgid "No email supplied. Please enter valid email."
+msgstr ""
+
+#: app/build/frontendComponents.js:666
+#: app/build/wheelsFrontend.js:844
+#: app/src/public/assessment/WheelWidget.js:113
+msgid "Get the report"
+msgstr ""
+
+#: app/build/frontendComponents.js:672
+#: app/build/wheelsFrontend.js:850
+#: app/src/public/assessment/WheelWidget.js:124
+msgid "Email My Wheel"
+msgstr ""
+
+#: app/build/frontendComponents.js:676
+#: app/build/wheelsFrontend.js:854
+#: app/src/public/assessment/WheelWidget.js:136
+msgid "Share the report"
+msgstr ""
+
+#: app/build/frontendComponents.js:709
+#: app/build/wheelsFrontend.js:887
+#: app/src/public/assessment/WheelWidget.js:215
+msgid "Email my Wheel"
+msgstr ""
+
+#: app/build/frontendComponents.js:711
+#: app/build/wheelsFrontend.js:889
+#: app/src/public/assessment/WheelWidget.js:220
+msgid "Please enter the email address where you would like to send your assessment result:"
+msgstr ""
+
+#: app/build/frontendComponents.js:726
+#: app/build/wheelsFrontend.js:904
+#: app/src/public/assessment/WheelWidget.js:247
+msgid "Send"
+msgstr ""
+
+#: app/build/globalApp.js:3294
+#: app/src/admin/common/appSidebar.js:137
+msgid "Create New Wheel"
+msgstr ""
+
+#: app/build/globalApp.js:3322
+#: app/src/admin/common/appSidebar.js:179
+msgid "Support"
+msgstr ""
+
+#: app/build/globalApp.js:3331
+#: app/src/admin/common/appSidebar.js:192
+msgid "Documentation"
+msgstr ""
+
+#: app/build/globalApp.js:3339
+#: app/src/admin/common/appSidebar.js:205
+msgid "Upgrade to Pro version to add user dashboard, manage profiles, configure email templates, analytics dashboard and more exciting features."
+msgstr ""
+
+#: app/build/globalApp.js:3343
+#: app/src/admin/common/appSidebar.js:215
+msgid "Upgrade Now"
+msgstr ""
+
+#: app/build/globalApp.js:8286
+#: app/src/admin/pages/CallToAction.js:193
+msgid "Title and description"
+msgstr ""
+
+#: app/build/globalApp.js:8286
+#: app/src/admin/pages/CallToAction.js:196
+msgid "Use call to action at the end of the accessment for the user engagement."
+msgstr ""
+
+#: app/build/globalApp.js:8290
+#: app/src/admin/pages/CallToAction.js:205
+msgid "Call to Action Title"
+msgstr ""
+
+#: app/build/globalApp.js:8296
+#: app/src/admin/pages/CallToAction.js:215
+msgid "Call to Action Description"
+msgstr ""
+
+#: app/build/globalApp.js:8306
+#: app/src/admin/pages/CallToAction.js:230
+msgid "Action Buttons"
+msgstr ""
+
+#: app/build/globalApp.js:8306
+#: app/src/admin/pages/CallToAction.js:233
+msgid "Set the action buttons and page redirections."
+msgstr ""
+
+#: app/build/globalApp.js:8331
+#: app/build/globalApp.js:8389
+#: app/src/admin/pages/CallToAction.js:272
+#: app/src/admin/pages/CallToAction.js:367
+msgid "Button Link"
+msgstr ""
+
+#: app/build/globalApp.js:8347
+#: app/build/globalApp.js:8358
+#: app/build/globalApp.js:8405
+#: app/build/globalApp.js:8416
+#: app/src/admin/pages/CallToAction.js:293
+#: app/src/admin/pages/CallToAction.js:309
+#: app/src/admin/pages/CallToAction.js:388
+#: app/src/admin/pages/CallToAction.js:404
+msgid "Enable the option to open the page in new tab."
+msgstr ""
+
+#: app/build/globalApp.js:8369
+#: app/build/globalApp.js:8427
+#: app/src/admin/pages/CallToAction.js:325
+#: app/src/admin/pages/CallToAction.js:420
+msgid "Enable the option if the link has any sponsorship."
+msgstr ""
+
+#: app/build/globalApp.js:8380
+#: app/build/globalApp.js:8438
+#: app/src/admin/pages/CallToAction.js:341
+#: app/src/admin/pages/CallToAction.js:436
+msgid "Enable the option if the link has downloadable files."
+msgstr ""
+
+#: app/build/globalApp.js:8444
+#: app/src/admin/pages/CallToAction.js:449
+msgid "Style and Customization"
+msgstr ""
+
+#: app/build/globalApp.js:8444
+#: app/src/admin/pages/CallToAction.js:452
+msgid "Change colors, font-sizes and more to make your CTA appealing to your site visitors."
+msgstr ""
+
+#: app/build/globalApp.js:8448
+#: app/src/admin/pages/CallToAction.js:461
+msgid "Call to Action Preview"
+msgstr ""
+
+#: app/build/globalApp.js:8507
+#: app/src/admin/pages/CallToAction.js:621
+msgid "This is the preview of the CTA in your wheel. Click on the Customize button below to change the design styles."
+msgstr ""
+
+#: app/build/globalApp.js:8513
+#: app/src/admin/pages/CallToAction.js:632
+msgid "Customize"
+msgstr ""
+
+#: app/build/globalApp.js:8522
+#: app/build/globalApp.js:9186
+#: app/src/admin/pages/CallToAction.js:644
+#: app/src/admin/pages/settings.js:173
+msgid "Save Settings"
+msgstr ""
+
+#: app/build/globalApp.js:8634
+#: app/src/admin/pages/Customizer.js:56
+msgid "General"
+msgstr ""
+
+#: app/build/globalApp.js:8644
+#: app/src/admin/pages/Customizer.js:66
+msgid "Background"
+msgstr ""
+
+#: app/build/globalApp.js:8658
+#: app/src/admin/pages/Customizer.js:83
+msgid "Alignment"
+msgstr ""
+
+#: app/build/globalApp.js:8672
+#: app/src/admin/pages/Customizer.js:98
+msgid "CTA Title"
+msgstr ""
+
+#: app/build/globalApp.js:8684
+#: app/build/globalApp.js:8694
+#: app/build/globalApp.js:8710
+#: app/build/globalApp.js:8720
+#: app/build/globalApp.js:8751
+#: app/build/globalApp.js:8766
+#: app/build/globalApp.js:8813
+#: app/build/globalApp.js:8828
+#: app/src/admin/pages/Customizer.js:111
+#: app/src/admin/pages/Customizer.js:129
+#: app/src/admin/pages/Customizer.js:150
+#: app/src/admin/pages/Customizer.js:171
+#: app/src/admin/pages/Customizer.js:217
+#: app/src/admin/pages/Customizer.js:249
+#: app/src/admin/pages/Customizer.js:331
+#: app/src/admin/pages/Customizer.js:363
+msgid "Font Color"
+msgstr ""
+
+#: app/build/globalApp.js:8698
+#: app/src/admin/pages/Customizer.js:137
+msgid "CTA Description"
+msgstr ""
+
+#: app/build/globalApp.js:8724
+#: app/src/admin/pages/Customizer.js:179
+msgid "CTA Buttons"
+msgstr ""
+
+#: app/build/globalApp.js:8736
+#: app/src/admin/pages/Customizer.js:191
+msgid "Primary Button"
+msgstr ""
+
+#: app/build/globalApp.js:8737
+#: app/src/admin/pages/Customizer.js:192
+msgid "Secondary Button"
+msgstr ""
+
+#: app/build/globalApp.js:8769
+#: app/build/globalApp.js:8831
+#: app/src/admin/pages/Customizer.js:253
+#: app/src/admin/pages/Customizer.js:367
+msgid "Font Hover Color"
+msgstr ""
+
+#: app/build/globalApp.js:8866
+#: app/src/admin/pages/Customizer.js:433
+msgid "Others"
+msgstr ""
+
+#: app/build/globalApp.js:8971
+#: app/src/admin/pages/SubMenu.js:6
+msgid "All Wheel of Life"
+msgstr ""
+
+#: app/build/globalApp.js:8975
+#: app/build/globalApp.js:9108
+#: app/src/admin/pages/settings.js:77
+#: app/src/admin/pages/SubMenu.js:10
+msgid "Settings"
+msgstr ""
+
+#: app/build/globalApp.js:8979
+#: app/src/admin/pages/SubMenu.js:14
+msgid "Submissions"
+msgstr ""
+
+#: app/build/globalApp.js:9005
+#: app/build/globalApp.js:9122
+#: app/src/admin/pages/globalTab.js:6
+#: app/src/admin/pages/settings.js:92
+msgid "Social Share"
+msgstr ""
+
+#: app/build/globalApp.js:9008
+#: app/src/admin/pages/globalTab.js:9
+msgid "Call To Action"
+msgstr ""
+
+#: app/build/globalApp.js:9122
+#: app/src/admin/pages/settings.js:95
+msgid "Enable the social media platforms to share the results."
+msgstr ""
+
+#: app/build/globalApp.js:9128
+#: app/src/admin/pages/settings.js:105
+msgid "Facebook"
+msgstr ""
+
+#: app/build/globalApp.js:9139
+#: app/src/admin/pages/settings.js:118
+msgid "Twitter"
+msgstr ""
+
+#: app/build/globalApp.js:9150
+#: app/src/admin/pages/settings.js:131
+msgid "Linked In"
+msgstr ""
+
+#: app/build/globalApp.js:9161
+#: app/src/admin/pages/settings.js:144
+msgid "Reddit"
+msgstr ""
+
+#: app/build/globalApp.js:9172
+#: app/src/admin/pages/settings.js:157
+msgid "Email"
+msgstr ""
+
+#: app/build/globalApp.js:9331
+#: app/build/globalApp.js:9347
+#: app/build/globalApp.js:10389
+#: app/build/globalApp.js:10405
+#: app/src/admin/pages/submissionLists.js:131
+#: app/src/admin/pages/submissionLists.js:147
+#: app/src/admin/pages/wheelLists.js:126
+#: app/src/admin/pages/wheelLists.js:142
+msgid "Draft"
+msgstr ""
+
+#: app/build/globalApp.js:9335
+#: app/build/globalApp.js:9351
+#: app/build/globalApp.js:9603
+#: app/build/globalApp.js:10016
+#: app/build/globalApp.js:10393
+#: app/build/globalApp.js:10409
+#: app/src/admin/pages/submissionLists.js:135
+#: app/src/admin/pages/submissionLists.js:151
+#: app/src/admin/pages/tabs/AllWheel.js:203
+#: app/src/admin/pages/tabs/PublishedWheel.js:193
+#: app/src/admin/pages/wheelLists.js:130
+#: app/src/admin/pages/wheelLists.js:146
+msgid "Published"
+msgstr ""
+
+#: app/build/globalApp.js:9535
+#: app/build/globalApp.js:9741
+#: app/build/globalApp.js:9948
+#: app/build/globalApp.js:10156
+#: app/src/admin/pages/tabs/AllWheel.js:87
+#: app/src/admin/pages/tabs/DraftWheel.js:82
+#: app/src/admin/pages/tabs/PublishedWheel.js:82
+#: app/src/admin/pages/tabs/TrashedWheel.js:89
+msgid "Items deleted successfully."
+msgstr ""
+
+#: app/build/globalApp.js:9537
+#: app/build/globalApp.js:9743
+#: app/build/globalApp.js:9950
+#: app/build/globalApp.js:10158
+#: app/src/admin/pages/tabs/AllWheel.js:89
+#: app/src/admin/pages/tabs/DraftWheel.js:84
+#: app/src/admin/pages/tabs/PublishedWheel.js:84
+#: app/src/admin/pages/tabs/TrashedWheel.js:91
+msgid "No items selected."
+msgstr ""
+
+#: app/build/globalApp.js:9568
+#: app/build/globalApp.js:9774
+#: app/build/globalApp.js:9981
+#: app/build/globalApp.js:10189
+#: app/src/admin/pages/tabs/AllWheel.js:124
+#: app/src/admin/pages/tabs/DraftWheel.js:119
+#: app/src/admin/pages/tabs/PublishedWheel.js:119
+#: app/src/admin/pages/tabs/TrashedWheel.js:126
+msgid "Title"
+msgstr ""
+
+#: app/build/globalApp.js:9570
+#: app/build/globalApp.js:9776
+#: app/build/globalApp.js:9983
+#: app/build/globalApp.js:10191
+#: app/src/admin/pages/tabs/AllWheel.js:128
+#: app/src/admin/pages/tabs/DraftWheel.js:123
+#: app/src/admin/pages/tabs/PublishedWheel.js:123
+#: app/src/admin/pages/tabs/TrashedWheel.js:130
+msgid "Shortcode"
+msgstr ""
+
+#: app/build/globalApp.js:9572
+#: app/build/globalApp.js:9778
+#: app/build/globalApp.js:9985
+#: app/build/globalApp.js:10193
+#: app/src/admin/pages/tabs/AllWheel.js:132
+#: app/src/admin/pages/tabs/DraftWheel.js:127
+#: app/src/admin/pages/tabs/PublishedWheel.js:127
+#: app/src/admin/pages/tabs/TrashedWheel.js:134
+msgid "Created"
+msgstr ""
+
+#: app/build/globalApp.js:9574
+#: app/build/globalApp.js:9780
+#: app/build/globalApp.js:9987
+#: app/build/globalApp.js:10195
+#: app/src/admin/pages/tabs/AllWheel.js:135
+#: app/src/admin/pages/tabs/DraftWheel.js:130
+#: app/src/admin/pages/tabs/PublishedWheel.js:130
+#: app/src/admin/pages/tabs/TrashedWheel.js:137
+msgid "Status"
+msgstr ""
+
+#: app/build/globalApp.js:9580
+#: app/build/globalApp.js:9786
+#: app/build/globalApp.js:9993
+#: app/src/admin/pages/tabs/AllWheel.js:145
+#: app/src/admin/pages/tabs/DraftWheel.js:141
+#: app/src/admin/pages/tabs/PublishedWheel.js:141
+msgid "Sorry! No data found."
+msgstr ""
+
+#: app/build/globalApp.js:9616
+#: app/build/globalApp.js:9823
+#: app/build/globalApp.js:10030
+#: app/build/globalApp.js:10239
+#: app/src/admin/pages/tabs/AllWheel.js:233
+#: app/src/admin/pages/tabs/DraftWheel.js:220
+#: app/src/admin/pages/tabs/PublishedWheel.js:222
+#: app/src/admin/pages/tabs/TrashedWheel.js:228
+msgid "items selected"
+msgstr ""
+
+#: app/build/globalApp.js:10201
+#: app/src/admin/pages/tabs/TrashedWheel.js:148
+msgid "Sorry! No Trash data found."
+msgstr ""
+
+#: app/build/globalApp.js:10385
+#: app/build/globalApp.js:10401
+#: app/src/admin/pages/wheelLists.js:122
+#: app/src/admin/pages/wheelLists.js:138
+msgid "All Wheels"
+msgstr ""
+
+#: app/build/wheelsFrontend.js:194
+#: app/src/public/assessment/AssessmentMain.js:113
+msgid "Error: No wheel selected or wheel ID missing!!"
+msgstr ""
+
+#: app/src/admin/blocks/addWheels/block-components/blocks.js:21
+#: app/src/admin/blocks/addWheels/block-components/blocks.js:36
+#: app/src/admin/blocks/addWheels/block-components/blocks.js:51
+msgid "Enter Description..."
+msgstr ""
+
+#: app/src/admin/blocks/addWheels/block-components/blocks.js:68
+msgid "Your wheel of life is empty. Add some wheel block to see the magic."
+msgstr ""
+
+#: app/src/admin/blocks/addWheels/block-components/blocks.js:81
+msgid "Add First Wheel"
+msgstr ""
+
+#: app/src/admin/blocks/addWheels/block-components/blocks.js:132
+msgid "This is title"
+msgstr ""
+
+#: app/src/admin/blocks/addWheels/block-components/blocks.js:144
+msgid "Add description"
+msgstr ""
+
+#: app/src/admin/blocks/addWheels/block-components/blocks.js:149
+msgid "This is description"
+msgstr ""
+
+#: app/src/admin/blocks/ui-components/typography/FontOptions.js:30
+msgid "Font Size"
+msgstr ""
+
+#: app/src/admin/blocks/ui-components/typography/FontOptions.js:84
+msgid "Line Height"
+msgstr ""
+
+#: app/src/admin/blocks/ui-components/typography/FontOptions.js:138
+msgid "Letter Spacing"
+msgstr ""
+
+#: app/src/admin/blocks/ui-components/typography/FontOptions.js:198
+msgid "Capitalize"
+msgstr ""
+
+#: app/src/admin/blocks/ui-components/typography/FontOptions.js:202
+msgid "Uppercase"
+msgstr ""
+
+#: app/src/admin/blocks/ui-components/typography/FontOptions.js:234
+msgid "Line Through"
+msgstr ""
+
+#: app/src/admin/blocks/ui-components/typography/FontOptions.js:238
+msgid "Underline"
+msgstr ""
+
+#: app/src/admin/blocks/ui-components/typographyOptions.js:184
+msgid "Default Size"
+msgstr ""
